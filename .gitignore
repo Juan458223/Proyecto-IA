@@ -1,0 +1,16 @@
+# Entornos virtuales
+.venv/
+env/
+venv/
+ENV/
+
+# Archivos de Python (compilados y temporales)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Pesos de entrenamiento (Incluidos en el repositorio)
+# pesos_jugadores/
