@@ -11,7 +11,7 @@ En esta etapa, nos enfocamos en establecer la arquitectura base del sistema y la
     *   1 Portero (Goalkeeper)
     *   4 Defensas (Defenders)
     *   6 Atacantes (Attackers)
-*   **Gestión Centralizada:** Se desarrolló un script `manager.py` encargado de lanzar y monitorear todos los procesos del equipo de manera eficiente.
+*   **Gestión Centralizada:** Se implemento el script `manager.py` encargado de lanzar y monitorear todos los procesos del equipo de manera eficiente.
 
 ## Arquitectura del Modelo (IA)
 
