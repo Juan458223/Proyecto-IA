@@ -70,5 +70,3 @@ Para poner en marcha la simulación, simplemente ejecuta:
 python3 manager.py
 ```
 
----
-*Este proyecto sigue en desarrollo, con planes de integrar estrategias de IA más avanzadas y comunicación entre agentes en las próximas entregas.*
